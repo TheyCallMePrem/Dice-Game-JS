@@ -6,8 +6,8 @@ var img1 = document.getElementsByClassName("img1");
 var img2 = document.getElementsByClassName("img2");
 // document.querySelectorAll("img")[0].setAttribute("src", "images\dice6.png");
 // document.querySelectorAll("img")[1].setAttribute("src", "images\dice6.png");
-var s1 = "images/dice" +  randomNumber1+ ".png"
-var s2 = "images/dice" +  randomNumber2+ ".png"
+var s1 = "dice" +  randomNumber1+ ".png"
+var s2 = "dice" +  randomNumber2+ ".png"
 
 document.querySelectorAll("img")[0].setAttribute("src", s1);
 document.querySelectorAll("img")[1].setAttribute("src", s2);
