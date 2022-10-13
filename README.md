@@ -1,3 +1,3 @@
 # Dice-Game-JS
 
-Live Site: http://dice-game-js.infinityfreeapp.com/?i=1
+Live Site: https://theycallmeprem.github.io/Dice-Game-JS/
